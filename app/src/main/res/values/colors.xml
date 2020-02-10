@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="heavyBlack">#000000</color>
+    <color name="superWhite">#FFFFFF</color>
+    <color name="greyTint">#B2BEC3</color>
+    <color name="whiteGreyTint">#e6e6e6</color>
+
+    <color name="colorTheme">#db0a5b</color>
+    <color name="secondColorTheme">@color/superWhite</color>
+</resources>
